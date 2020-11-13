@@ -1,4 +1,4 @@
-package com.dooling.server.ctrl;
+package com.dooling.server.controller;
 
 import com.dooling.server.service.IMinioService;
 import org.springframework.beans.factory.annotation.Autowired;
